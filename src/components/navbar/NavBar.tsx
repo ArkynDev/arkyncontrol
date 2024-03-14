@@ -9,6 +9,7 @@ export const NavBar = () => {
                         <li className="rounded-md hover:bg-gray-700 text-white px-3 py-2 text-sm font-medium">Orçamento</li>
                     </ul>
                 </nav>
+                <button></button>
             </div>
         </header>
     )
